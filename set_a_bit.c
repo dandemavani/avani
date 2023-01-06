@@ -10,6 +10,6 @@ void main()
 	}
 	else
 	{
-		printf("lsb bit is clear %d\n",num);
+		printf("lsb bit bit is clear %d\n",num);
 	}
 }
